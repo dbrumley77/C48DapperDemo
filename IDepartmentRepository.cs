@@ -11,6 +11,8 @@ namespace C48DapperDEmo
 
         public IEnumerable<Department> GetAllDepartments(); //Stubbed out method
 
+        public void InsertDepartment(string newDepartmentName);
+
     }
 
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C48DapperDEmo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8717e602e80c09a98257c5b50c39b1fac467625a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a18722be7de32cc762c0b191c7676d766a9af42")]
 [assembly: System.Reflection.AssemblyProductAttribute("C48DapperDEmo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C48DapperDEmo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

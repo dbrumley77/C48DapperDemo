@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\dapperdepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:dapperdepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:dapperproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\dapperdepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|solutionrelative:dapperdepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3B78021-BA4A-4D2C-8102-B30D94375C33}|C48DapperDEmo.csproj|c:\\users\\dougl\\onedrive\\desktop\\repos\\c48dapperdemo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -47,45 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:17:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DapperProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\DapperProductRepository.cs",
               "RelativeDocumentMoniker": "DapperProductRepository.cs",
               "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\DapperProductRepository.cs",
               "RelativeToolTip": "DapperProductRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAYwC4AAAApAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T22:15:13.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "IProductRepository.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\IProductRepository.cs",
-              "RelativeToolTip": "IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T22:07:29.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T22:01:13.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "IDepartmentRepository.cs",
@@ -98,7 +85,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "IProductRepository.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\IProductRepository.cs",
+              "RelativeToolTip": "IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:07:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:01:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Department.cs",
               "RelativeDocumentMoniker": "Department.cs",
@@ -111,20 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAowDAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T00:17:13.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DapperDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\OneDrive\\Desktop\\Repos\\C48DapperDEmo\\DapperDepartmentRepository.cs",
               "RelativeDocumentMoniker": "DapperDepartmentRepository.cs",
@@ -132,8 +132,7 @@
               "RelativeToolTip": "DapperDepartmentRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwBsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T01:00:56.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T01:00:56.264Z"
             },
             {
               "$type": "Document",

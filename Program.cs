@@ -18,19 +18,19 @@ namespace C48DapperDEmo
             IDbConnection conn = new MySqlConnection(connString);
 
 
-            //DapperDepartmentRepository instance = new DapperDepartmentRepository(conn);
+            DapperDepartmentRepository instance2 = new DapperDepartmentRepository(conn);
 
 
-            //IEnumerable<Department> collection = instance.GetAllDepartments();
+            IEnumerable<Department> collection = instance2.GetAllDepartments();
 
-            //foreach (Department item in collection)
-            //{
-            //    Console.WriteLine(item.DepartmentID);
-            //    Console.WriteLine(item.Name);
-            //    Console.WriteLine();
-            //}
+            foreach (Department item in collection)
+            {
+                Console.WriteLine(item.DepartmentID);
+                Console.WriteLine(item.Name);
+                Console.WriteLine();
+            }
 
-            //instance.InsertDepartment("taco");
+            instance2.InsertDepartment("taco");
 
 
 
@@ -43,11 +43,11 @@ namespace C48DapperDEmo
             instance.UpdateProduct(productToUpdate);
 
 
-            IEnumerable<Product> collection = instance.GetAllProducts();
-                    
-                      
-                        
-            foreach (Product item in collection)
+            IEnumerable<Product> collectionP = instance.GetAllProducts();
+
+
+
+            foreach (Product item in collectionP)
             {
                 Console.WriteLine(item.Name);
                 Console.WriteLine(item.Price);
